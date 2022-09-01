@@ -1,0 +1,9 @@
+[package]
+name = "Vault"
+version = "0.0.0"
+
+[addresses]
+vault = "0xf72efe2f5228f247c5dfb8889abd41145d1eb5bd4352574322112936a0778b97"
+
+[dependencies]
+AptosFramework = { local = "../../framework/aptos-framework" }
